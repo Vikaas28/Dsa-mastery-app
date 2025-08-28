@@ -1,3 +1,38 @@
+
+🚀 DSA Mastery Lab
+
+An interactive React + Tailwind CSS 3 application to practice and master Data Structures and Algorithms (DSA).
+This app is designed for students, developers, and coding enthusiasts who want to learn, practice, and track progress in DSA with an engaging UI.
+
+✨ Features
+
+📚 Topic-wise Learning – Organized DSA problems (Arrays, Strings, Trees, Graphs, etc.)
+
+🎯 Practice Mode – Solve coding problems interactively.
+
+📊 Progress Tracker – Keep track of solved problems.
+
+🎨 Modern UI – Built with Tailwind CSS 3 for a clean and responsive interface.
+
+⚡ Fast & Lightweight – Powered by React + Vite.
+
+🌙 Dark Mode Support (optional).
+
+🛠️ Tech Stack
+
+React.js ⚛️
+
+Tailwind CSS 3 🎨
+
+JavaScript (ES6+)
+
+Git + GitHub for version control
+
+i have provide the Screenshot of UI check it out :-
+
+<img width="1858" height="969" alt="image" src="https://github.com/user-attachments/assets/b80441e1-e9bc-4679-9d85-318395c38f07" />
+
+
 <<<<<<< HEAD
 # Getting Started with Create React App
 
